@@ -1,5 +1,1 @@
-this is a test
-
-enter
-
-more
+task.py finish
